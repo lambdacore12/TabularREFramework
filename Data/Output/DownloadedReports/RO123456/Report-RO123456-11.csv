@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+643891,"Professional Services",117178,23435.6,140614,RON,2017-11-01
+378169,"IT Support",91401,18280.2,109681,CAD,2017-11-23
+528097,"Beverages and Catering",220340,44068,264408,RON,2017-11-05
+356023,"Waste management services",65006,13001.2,78007.2,CAD,2017-11-07
